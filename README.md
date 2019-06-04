@@ -1,7 +1,7 @@
 # Impressionist Image Editor
 
 **Term:** Senior Spring 2018  
-**Course:** CS460 - Graphics
+**Course:** CS460 - Graphics  
 **Date:** September 2018  
 **Tool:** Visual Studio  
 **Language:** C++  
